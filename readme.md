@@ -19,7 +19,7 @@ Il s’agit de mon tout premier projet avec ces technologies.
 
 ## Accès au portfolio
 
-- Version en ligne : [https://camllr.github.io/mon-portfolio/](https://camllr.github.io/mon-portfolio/)
+- Version en ligne : [https://camllr.github.io/mon-portfolio/](https://camllr.github.io/portfolio/)
 - Code source : ce dépôt GitHub
 
 ## Contenu du portfolio
