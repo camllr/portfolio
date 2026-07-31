@@ -114,6 +114,7 @@ nav {
 .logo {
   width: 4%;
   margin-left: 1em;
+  max-width: 2.3em;
 }
 
 .links {
